@@ -1,0 +1,2 @@
+# DesafioPageViewController
+Desafio da aula de IOS / Swift da Digital House onde a idíea é implementar um app com duias telas, ambas com o mesmo layout: dois textfields, uma label e um botão, e em cada uma delas ao clicar no botão os valores dos texfields são somados ou subtraídos, e o resultado é exibido na label. Para alteranar entre as telas, deve haver um UIPageViewController, permitindo a navegação entre uma e outra com um gesto de swipe horizontal
